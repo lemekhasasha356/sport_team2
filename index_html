@@ -1,0 +1,42 @@
+<html>
+<title>Види спорту</title>
+<body style="background-color:lightgray">
+    <header style="background-color:lightyellow">
+        <img width="50px" height="50px" src="https://img.freepik.com/premium-vector/square-background-with-set-collection-elements-sport_18591-3667.jpg?w=1060"/>
+      <a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%85%D1%8D%D0%BA%D0%B2%D0%BE%D0%BD%D0%B4%D0%BE">Тхеквандо </a> 
+      ,      <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D0%B5">Карате</a> 
+    </header>
+<main>
+ <h3> Тхеквандо </h3>
+<p>Тхеквондо — бойове мистецтво, олімпійський вид спорту та національний вид спорту в Кореї. Тхеквондо є одним з найбільш систематизованих і науково обґрунтованих бойових мистецтв світу.</p>
+<img width="350px" height="250px"src="https://mma.metaratings.ru/_images/insecure/w-1360:h-1040/bG9jYWw6Ly8vdXBsb2FkL3NwcmludC5lZGl0b3IvNzIxLzcyMTllN2E2Njc2NmQ4OGUzMzYzZTk0MzkwY2RkYmM0LmpwZw==.webp"/>
+<h3> Карате </h3>
+<p> Карате́ або Карате́-до́ є бойовим мистецтвом, що розвинулося з китайських бойових мистецтв та мистецтв островів Рюкю. Карате, у загальному сенсі, — це мистецтво самозахисту за допомогою ударів, блоків та рухів. Удари завдаються як руками, так і ногами</p>
+<img width="350px" height="150px" src="https://www.sadochok.net.ua/wp-content/uploads/2019/10/karate-na-petrogradskoi-1200x675.jpg.pagespeed.ce.xBRtpuHjjx.jpg">
+<table style="border:1px solid blue;border-collapse:collapse;">
+<tr>
+    <td>назва</td>
+    <td>тренер</td>
+    <td>час</td>
+    <td>группа</td>
+</tr>
+<tr>
+    <td>тхеквандо</td>
+    <td>А.О.Іван</td>
+    <td>17:00-18:00</td>
+    <td>2 группа</td>
+</tr>
+<tr>
+    <td>карате</td>
+    <td>М.Г.Богдан</td>
+    <td>14:00-15:30</td>
+    <td>1 группа</td>
+</tr>
+</table>
+</main>
+<footer style="background-color:cyan;color:green">
+<p> Створено в Україні</p>       <p> номер:093115****</p>
+<p>Слава Україні!</p>
+</footer>
+</body>
+</html>
